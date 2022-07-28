@@ -20,4 +20,7 @@
 ### Description
 This is basic easy calendar. Just by using javascript logics with HTML CSS. No inbuilt library frameworked used.
 
+### Scope of Need
+Digital calendar become day to day utility of of individual rather than family wall calendar.
+
 ## Author name: RAJESH CHOUDHARY
