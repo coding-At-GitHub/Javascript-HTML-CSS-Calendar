@@ -1,6 +1,5 @@
 var dt = new Date();
 function renderDate() {
-    dt.setDate(1);
     var day = dt.getDay();
     var today = new Date();
     var endDate = new Date(
