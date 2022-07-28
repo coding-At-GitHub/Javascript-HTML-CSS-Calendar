@@ -5,10 +5,10 @@
 ## By Rajesh Choudhary
 
 ## Technologies Used
-    HTML
-    CSS
-    CSS (media queries)
-    Javascript
+    # HTML
+    # CSS
+    # CSS (media queries)
+    # Javascript
 
 ## Features
     # Changes months just by one click.
