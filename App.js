@@ -33,7 +33,6 @@ function renderDate() {
     for (x = day; x > 0; x--) {
         cells += "<div class='prev_date'>" + (prevDate - x + 1) + "</div>";
     }
-    console.log(day);
     for (i = 1; i <= endDate; i++) {
         if (i == today.getDate() && dt.getMonth() == today.getMonth() && dt.getYear() == today.getYear()) cells += "<div class='today'>" + i + "</div>";
         else
